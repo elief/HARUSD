@@ -66,8 +66,7 @@ The script does the following:<br>
 **Step 2** - Merge the data in subject_,y_,x_ data stored in test and train folder , and lable the variables based on the columne name provided in features.txt<br>
 **Step 3** - Combine the test and train folder together into one dataset. and lable the activty based on the lable provided in activity_labels.txt<br>
 **Step 4** - Take the Average of Mean and Standard deviation of each measurements by Subject by Activity.<br>
-**Step 5** - Return the dataset produced in step 3 and step 4 in a list vector named "HARUSD" (no quotes).<br> 
-HARUSD[[1]] is the result provided in step 3, HARUSD [[2]] is the result provided in step 4<br>
+**Step 5** - Return the dataset produced in step 4 in a variable named "HARUSD" (no quotes).<br> 
 
 
 ####The Full dataset (dataset provided in **Step 3**):<br>
