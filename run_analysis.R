@@ -172,7 +172,7 @@ run_analysis <- function (){
 						FUN = mean) # calculate the average(mean)
 
 	# Return result
-	list(Merged_mean_std_only_labed,Merged_Mean)
+	Merged_Mean
 }
 
 HARUSD <- run_analysis()
