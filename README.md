@@ -68,6 +68,8 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
+*There are other variables included in the dataset, but will be ignored in the script.*
+
 #####License:
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
